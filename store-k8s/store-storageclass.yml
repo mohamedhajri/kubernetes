@@ -28,4 +28,4 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - 10.66.13.10
+          - kworker1
